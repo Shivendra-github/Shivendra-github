@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivendra Sikarwar</h1>
 <h3 align="center">A passionate Frontend Web developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-panchal" /> </p>
+<p align="left"> <a href="https://twitter.com/vivekpaanchal" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpaanchal?logo=twitter&style=for-the-badge" alt="vivekpaanchal" /></a> </p>
 
 - 👋 Hi, I’m Shivendra Sikarwar
 - 👀 I’m interested in frontend roles
