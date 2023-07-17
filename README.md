@@ -13,7 +13,7 @@
 <li> 💬 Ask me about <b>Javascript,Java,DSA</b></li>
 <li>💞️ I’m looking to collaborate on frontend developers</li> 
 
-<p> How to reach me <a href="mailto:shievendrapratapsingh96178@gmail.com">Send email</a></p>
+<li> How to reach me <a href="mailto:shievendrapratapsingh96178@gmail.com">Send email</a></li>
 
 
 </ul>
