@@ -10,9 +10,9 @@
 <div>
   <ul>
 <li>🔭 I’m currently learning MERN Stack Development</li>
--<li> 💬 Ask me about **Javascript,Java,DSA**</li>
-- <li>💞️ I’m looking to collaborate on frontend developers</li> 
-- <li>📫 How to reach me 'shievendrapratapsingh96178@gmail.com'</li>
+<li> 💬 Ask me about **Javascript,Java,DSA**</li>
+<li>💞️ I’m looking to collaborate on frontend developers</li> 
+<li>📫 How to reach me 'shievendrapratapsingh96178@gmail.com'</li>
 
 </ul>
 </div>
