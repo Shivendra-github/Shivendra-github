@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently learning **MERN Stack Development**
-- 💬 Ask me about **Javascript,Java,DSA**'
+- 💬 Ask me about **Javascript,Java,DSA**
 - 💞️ I’m looking to collaborate on frontend developers 
 - 📫 How to reach me 'shievendrapratapsingh96178@gmail.com'
 
