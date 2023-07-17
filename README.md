@@ -9,11 +9,11 @@
 
 
 <ul>
-<li>🔭 I’m currently learning <b> MERN Stack Development</b>b></li>
-<li> 💬 Ask me about <b>Javascript,Java,DSA</b></li>
-<li>💞️ I’m looking to collaborate on frontend developers</li> 
+<li>🔭 I’m currently learning <b> MERN Stack Development</b>b></li><br>
+<li> 💬 Ask me about <b>Javascript,Java,DSA</b></li><br>
+<li>💞️ I’m looking to collaborate on frontend developers</li> <br>
 
-<li> How to reach me <a href="mailto:shievendrapratapsingh96178@gmail.com">shievendrapratapsingh96178@gmail.com</a></li>
+<li> How to reach me <a href="mailto:shievendrapratapsingh96178@gmail.com">shievendrapratapsingh96178@gmail.com</a></li><br>
 
 
 </ul>
