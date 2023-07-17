@@ -12,7 +12,8 @@
 <li>🔭 I’m currently learning <b> MERN Stack Development</b>b></li>
 <li> 💬 Ask me about <b>Javascript,Java,DSA</b></li>
 <li>💞️ I’m looking to collaborate on frontend developers</li> 
-<li>📫 How to reach me 'shievendrapratapsingh96178@gmail.com'</li>
+<!-- <li>📫 How to reach me 'shievendrapratapsingh96178@gmail.com'</li> -->
+- 📫 How to reach me **shievendrapratapsingh96178@gmail.com**
 
 </ul>
 </div>
